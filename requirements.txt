@@ -1,0 +1,13 @@
+h3==3.7.7
+geopandas
+folium
+overpy
+pandas
+numpy
+scipy
+streamlit
+plotly
+shapely
+pyproj
+requests
+jupyterlab

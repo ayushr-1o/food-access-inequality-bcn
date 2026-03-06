@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw files can be large)
+data/raw/*.csv
+data/raw/*.shp
+data/raw/*.geojson
+data/raw/*.zip
+
+# Outputs
+outputs/maps/*.html
+
+# OS
+.DS_Store
+Thumbs.db
