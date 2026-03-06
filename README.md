@@ -118,3 +118,9 @@ streamlit run app/streamlit_app.py
 
 **Ayush Raj** — MSc Business Analytics, ESADE Barcelona
 [GitHub](https://github.com/ayushr-1o)
+## Key Findings
+
+- **Vila de Gràcia** is Barcelona's best-served neighbourhood (avg score: 69.9/100, 277 grocery stores), while **Vallvidrera, el Tibidabo i les Planes** is the most underserved (avg score: 21.3/100, 71.4% food desert hexes)
+- **Food deserts in Barcelona are geography-driven, not income-driven**: Pearson r = 0.012 (p = 0.71) shows no significant linear relationship between household income and food access score
+- A weak but significant Spearman correlation (r = 0.095, p = 0.003) suggests mild monotonic association, but the dominant driver is physical isolation — hillside and industrial neighbourhoods account for 8 of the 10 most underserved areas
+- **96.4% of Barcelona's 73 neighbourhoods** were successfully matched with 2022 household income data from INE, enabling city-wide comparative analysis
