@@ -2,11 +2,15 @@
 
 > Mapping grocery access gaps across Barcelona using H3 hexagonal indexing, OpenStreetMap POI data, and open demographic data from INE and Ajuntament de Barcelona.
 
+**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
 ---
 
 ## Problem Statement
 
 Food deserts — areas with poor access to affordable, nutritious food — disproportionately affect low-income communities. Despite Barcelona's density, significant access gaps exist across districts. This project quantifies and visualises those gaps at street level using Uber's H3 hexagonal grid system, allowing policymakers, researchers, and businesses to identify underserved areas with precision.
+
+**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
 
 ---
 
@@ -25,7 +29,61 @@ Food deserts — areas with poor access to affordable, nutritious food — dispr
 
 ### 3. Composite Food Access Score (0–100)
 | Component         | Weight | Description                                              |
-|-------------------|--------|----------------------------------------------------------|
+|**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+----|**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+-----|**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+----|
 | Store density     | 40%    | Count of grocery POIs within k=2 catchment ring         |
 | Store diversity   | 20%    | Variety of shop types (supermarket, convenience, fresh)  |
 | Population pressure | 20%  | Residents per store in catchment area                    |
@@ -38,6 +96,8 @@ A lower score indicates a food desert. A higher score indicates a well-served ar
 - Bivariate map: income quintile overlaid with access score to surface inequality
 - Streamlit dashboard: interactive resolution slider, district filter, and layer toggles
 
+**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
 ---
 
 ## Key Questions Answered
@@ -45,6 +105,8 @@ A lower score indicates a food desert. A higher score indicates a well-served ar
 1. Which Barcelona districts have the worst food access?
 2. Is low food access correlated with low income?
 3. How does the picture change at different H3 resolutions?
+
+**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
 
 ---
 
@@ -68,16 +130,74 @@ food-access-inequality-bcn/
 └── README.md
 \\\
 
+**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
 ---
 
 ## Data Sources
 
 | Dataset                        | Source                              | License       |
-|-------------------------------|-------------------------------------|---------------|
+|**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+----|**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+----|**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
+---|
 | Grocery POIs                  | OpenStreetMap via Overpass API      | ODbL          |
 | Neighbourhood boundaries      | Ajuntament de Barcelona Open Data   | CC BY 4.0     |
 | Income by neighbourhood       | Ajuntament de Barcelona Open Data   | CC BY 4.0     |
 | Population by census section  | INE Censo 2021                      | Open          |
+
+**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
 
 ---
 
@@ -94,11 +214,15 @@ jupyter lab
 streamlit run app/streamlit_app.py
 \\\
 
+**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
+
 ---
 
 ## Tech Stack
 
 \h3-py\ · \geopandas\ · \olium\ · \overpy\ · \pandas\ · \scipy\ · \streamlit\ · \plotly\
+
+**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
 
 ---
 
@@ -111,6 +235,8 @@ streamlit run app/streamlit_app.py
 - [ ] Folium choropleth visualisation
 - [ ] Streamlit dashboard
 - [ ] v2: Expand to all of Catalonia (947 municipalities)
+
+**[🚀 Live Demo](https://food-access-inequality-bcn.streamlit.app/)**
 
 ---
 
